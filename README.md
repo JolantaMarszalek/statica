@@ -1,1 +1,1 @@
-# statica
+This is STATICA project
